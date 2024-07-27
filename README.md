@@ -1,4 +1,4 @@
-Climate Analysis CP472 Assignment 2 Environment Setup
+Climate Analysis Environment Setup
 
 This README provides a guide on setting up your development environment for working with C, Java, and Python projects, especially those involving CSV file handling.
 C Environment Setup
